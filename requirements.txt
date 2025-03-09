@@ -8,3 +8,15 @@ python-decouple==3.8
 drf_yasg==1.21.8
 django-rest-swagger==2.2.0
 
+django-axes[ipware]
+
+django-otp
+pyotp
+
+redis
+django-redis
+
+# MKDocs
+mkdocs
+mkdocs-material
+mkdocs-git-revision-date-localized-plugin

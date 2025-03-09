@@ -13,5 +13,6 @@ class CustomUserAdmin(admin.ModelAdmin):
         "last_login",
         "is_active",
         "is_staff",
+        "is_email_verified",
         "is_superuser"
     )
